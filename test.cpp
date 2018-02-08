@@ -21,6 +21,7 @@ int main ()
         cin >> age;
     }
     average = totalAge / numberOfPeople;
+    cout << "number of people: " << numberOfPeople << endl;
     cout << "the average is: " << average << endl;
 
 
